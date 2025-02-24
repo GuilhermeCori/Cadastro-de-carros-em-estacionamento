@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1739965178 source:c:\users\gomor\documents\programação\programa2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	<windows.h>
+
